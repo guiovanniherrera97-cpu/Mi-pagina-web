@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Gran Circo LPC">
+  <rect width="32" height="32" rx="6" fill="#071428"/>
+  <path fill="#E10600" d="M16 4.5 5.5 27.5h21z"/>
+  <path fill="#FFF8EE" d="M16 10 11.2 27.5h9.6z"/>
+  <circle cx="16" cy="6" r="2.3" fill="#F5C518"/>
+</svg>

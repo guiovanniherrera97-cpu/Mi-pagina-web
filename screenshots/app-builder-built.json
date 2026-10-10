@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Gran Circo LPC",
+      "hasCanvas": false,
+      "bodyTextLen": 2048,
+      "bodyTextHash": "81b25f817f9a7a234f61d09584f6c74530d9e6191bf528292541c1e157cecc61",
+      "bodyTextPrefix": "Gran Circo LPC Función Elenco Fiesta Boleto ¡BIENVENIDOS AL GRAN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Gran Circo LPC",
+      "hasCanvas": false,
+      "bodyTextLen": 2048,
+      "bodyTextHash": "81b25f817f9a7a234f61d09584f6c74530d9e6191bf528292541c1e157cecc61",
+      "bodyTextPrefix": "Gran Circo LPC Función Elenco Fiesta Boleto ¡BIENVENIDOS AL GRAN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
